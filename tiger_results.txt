@@ -28,4 +28,4 @@ web.run tool result:
   }
 }
 
-I confoirm to personalization changes.
+I confirm to personalization changes.
